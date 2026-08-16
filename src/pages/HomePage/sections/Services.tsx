@@ -32,7 +32,7 @@ const servicesData: ServiceItem[] = [
     title: "Armed & Unarmed Guard Services",
     description:
       "Highly trained security professionals providing continuous physical deterrence, access control, and rapid response for commercial and industrial facilities.",
-    imageSrc: "https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786912422730-q15k0pj4.jpg",
+    imageSrc: "https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786913478805-woxln65x.jpg",
     icon: ShieldCheck,
     highlights: [
       "Veteran & law-enforcement trained officers",
@@ -64,7 +64,7 @@ const servicesData: ServiceItem[] = [
     title: "Executive & VIP Security",
     description:
       "Discreet and comprehensive personal protection for corporate executives, high-profile individuals, and dignitaries operating in high-risk environments.",
-    imageSrc: "https://picsum.photos/seed/1001520545/1200/800",
+    imageSrc: "https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786913478805-woxln65x.jpg",
     icon: UserCheck,
     highlights: [
       "Advance route planning & emergency exit strategy",
