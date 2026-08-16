@@ -80,7 +80,7 @@ const servicesData: ServiceItem[] = [
     title: "Access Control & Surveillance",
     description:
       "Advanced electronic security systems combined with live monitoring to prevent unauthorized entry and maintain clear audit trails for your premises.",
-    imageSrc: "",
+    imageSrc: "https://picsum.photos/seed/360122831/1200/800",
     icon: Video,
     highlights: [
       "Biometric & smart credential access management",
@@ -96,7 +96,7 @@ const servicesData: ServiceItem[] = [
     title: "Event & Conference Security",
     description:
       "End-to-end security coordination for large-scale public events, private galas, and corporate summits ensuring guest safety and smooth operations.",
-    imageSrc: "",
+    imageSrc: "https://picsum.photos/seed/870369889/1200/800",
     icon: CalendarCheck,
     highlights: [
       "Perimeter screening & magnetometer checkpoints",
