@@ -8,12 +8,14 @@ import ScrollReveal from "@/components/ui/ScrollReveal";
 
 const members = [
   {
-    name: "Darnell L. Johnson",
+    name: "Donte Sanders
+",
     role: "Founder & CEO / DLJ Owner",
     imageSrc: "https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786850139072-spnpazqf.jpg"
   },
   {
-    name: "Elena Rodriguez",
+    name: "Jontrelle Taylor
+",
     role: "Client Relations Manager",
     imageSrc: "http://img.b2bpic.net/free-photo/attractive-male-cop-with-ammunition-holding-gun-with-both-hands-front-view-bearded-man-black_7502-10633.jpg"
   },
