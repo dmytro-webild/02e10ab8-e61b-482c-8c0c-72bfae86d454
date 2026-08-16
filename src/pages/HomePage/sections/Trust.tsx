@@ -19,7 +19,7 @@ const TrustInline = () => {
       <div className="relative mx-auto w-content-width min-h-[480px] card rounded overflow-hidden p-8 md:p-16 flex flex-col justify-end">
         <div className="absolute inset-0 z-0">
           <img
-            src="https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786915422481-iu08jzep.png"
+            src="https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786907592716-628y5o8n.jpg"
             alt="DLJ Protection Veteran Leadership"
             className="w-full h-full object-cover object-top"
           />
@@ -28,7 +28,7 @@ const TrustInline = () => {
 
         <div className="absolute flex items-center justify-center top-6 left-6 md:top-8 md:left-8 size-14 md:size-16 primary-button rounded z-10 overflow-hidden p-2">
           <img
-            src="https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786915422481-iu08jzep.png"
+            src="https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786907592716-628y5o8n.jpg"
             alt="DLJ Protection Shield Logo"
             className="w-full h-full object-contain"
           />
