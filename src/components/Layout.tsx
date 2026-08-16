@@ -58,40 +58,76 @@ export default function Layout() {
           brand="DLJ Protection"
           columns={[
             {
-              title: "Company",
+              title: "Quick Navigation",
               items: [
                 {
-                  label: "About Us",
-                  href: "#",
+                  label: "Home",
+                  href: "#hero",
                 },
                 {
-                  label: "Veteran Mission",
-                  href: "#",
+                  label: "Services",
+                  href: "#services",
+                },
+                {
+                  label: "Leadership Team",
+                  href: "#team",
+                },
+                {
+                  label: "Trust & Mission",
+                  href: "#trust",
+                },
+                {
+                  label: "Client Reviews",
+                  href: "#testimonials",
+                },
+                {
+                  label: "FAQ",
+                  href: "#faq",
+                },
+                {
+                  label: "Contact Us",
+                  href: "#contact",
                 },
               ],
             },
             {
-              title: "Services",
+              title: "Security Services",
               items: [
                 {
                   label: "Guard Services",
                   href: "#services",
                 },
                 {
-                  label: "Patrol",
+                  label: "Mobile Patrol",
+                  href: "#services",
+                },
+                {
+                  label: "Executive Protection",
+                  href: "#services",
+                },
+                {
+                  label: "Access Control",
                   href: "#services",
                 },
               ],
             },
             {
-              title: "Resources",
+              title: "Mission & Partners",
               items: [
                 {
-                  label: "Partnership: Swords to Plowshares",
-                  href: "#",
+                  label: "Veteran Mission",
+                  href: "#trust",
                 },
                 {
-                  label: "Contact",
+                  label: "Swords to Plowshares",
+                  href: "#trust",
+                },
+                {
+                  label: "Licensing & PPO",
+                  href: "#trust",
+                },
+                {
+                  label: "Careers for Veterans",
                   href: "#contact",
                 },
               ],
@@ -105,6 +141,10 @@ export default function Layout() {
             },
             {
               label: "Terms of Service",
+              href: "#",
+            },
+            {
+              label: "Licensing Disclosures",
               href: "#",
             },
           ]}
