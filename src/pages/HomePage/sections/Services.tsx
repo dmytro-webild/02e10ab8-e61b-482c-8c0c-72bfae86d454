@@ -32,7 +32,7 @@ const servicesData: ServiceItem[] = [
     title: "Armed & Unarmed Guard Services",
     description:
       "Highly trained security professionals providing continuous physical deterrence, access control, and rapid response for commercial and industrial facilities.",
-    imageSrc: "https://picsum.photos/seed/721739576/1200/800",
+    imageSrc: "https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786912422729-ixkebhhp.jpg",
     icon: ShieldCheck,
     highlights: [
       "Veteran & law-enforcement trained officers",
