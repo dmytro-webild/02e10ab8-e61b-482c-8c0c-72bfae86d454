@@ -80,7 +80,7 @@ const servicesData: ServiceItem[] = [
     title: "Access Control & Surveillance",
     description:
       "Advanced electronic security systems combined with live monitoring to prevent unauthorized entry and maintain clear audit trails for your premises.",
-    imageSrc: "https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786913478806-skn1xy6m.jpg",
+    imageSrc: "https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786912422729-ixkebhhp.jpg",
     icon: Video,
     highlights: [
       "Biometric & smart credential access management",
