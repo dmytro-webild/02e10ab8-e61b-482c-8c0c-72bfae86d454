@@ -7,108 +7,148 @@ import { StyleProvider } from "@/components/ui/StyleProvider";
 
 export default function Layout() {
   const navItems = [
-  {
-    "name": "Home",
-    "href": "#hero"
-  },
-  {
-    "name": "Services",
-    "href": "#services"
-  },
-  {
-    "name": "Team",
-    "href": "#team"
-  },
-  {
-    "name": "Contact",
-    "href": "#contact"
-  },
-  {
-    "name": "Trust",
-    "href": "#trust"
-  },
-  {
-    "name": "Testimonials",
-    "href": "#testimonials"
-  },
-  {
-    "name": "Faq",
-    "href": "#faq"
-  }
-];
+    {
+      "name": "Home",
+      "href": "#hero"
+    },
+    {
+      "name": "Services",
+      "href": "#services"
+    },
+    {
+      "name": "Team",
+      "href": "#team"
+    },
+    {
+      "name": "Trust",
+      "href": "#trust"
+    },
+    {
+      "name": "Testimonials",
+      "href": "#testimonials"
+    },
+    {
+      "name": "FAQ",
+      "href": "#faq"
+    },
+    {
+      "name": "Contact",
+      "href": "#contact"
+    }
+  ];
 
   return (
     <StyleProvider buttonVariant="default" siteBackground="noise" heroBackground="lightRaysCenter">
       <SiteBackgroundSlot />
       <SectionErrorBoundary name="navbar">
         <NavbarFloatingLogo
-      logo="DLJ Protection"
-      logoImageSrc="https://picsum.photos/seed/logoimagesrc/800/600"
-      ctaButton={{
-        text: "Consultation",
-        href: "#contact",
-      }}
-     navItems={navItems} />
+          logo="DLJ Protection"
+          ctaButton={{
+            text: "Free Consultation",
+            href: "#contact",
+          }}
+          navItems={navItems}
+        />
       </SectionErrorBoundary>
       <main className="flex-grow">
         <Outlet />
       </main>
       <SectionErrorBoundary name="footer">
         <FooterSimpleCard
-      brand="DLJ Protection"
-      columns={[
-        {
-          title: "Company",
-          items: [
+          brand="DLJ Protection"
+          columns={[
             {
-              label: "About Us",
+              title: "Quick Navigation",
+              items: [
+                {
+                  label: "Home",
+                  href: "#hero",
+                },
+                {
+                  label: "Services",
+                  href: "#services",
+                },
+                {
+                  label: "Leadership Team",
+                  href: "#team",
+                },
+                {
+                  label: "Trust & Mission",
+                  href: "#trust",
+                },
+                {
+                  label: "Client Reviews",
+                  href: "#testimonials",
+                },
+                {
+                  label: "FAQ",
+                  href: "#faq",
+                },
+                {
+                  label: "Contact Us",
+                  href: "#contact",
+                },
+              ],
+            },
+            {
+              title: "Security Services",
+              items: [
+                {
+                  label: "Guard Services",
+                  href: "#services",
+                },
+                {
+                  label: "Mobile Patrol",
+                  href: "#services",
+                },
+                {
+                  label: "Executive Protection",
+                  href: "#services",
+                },
+                {
+                  label: "Access Control",
+                  href: "#services",
+                },
+              ],
+            },
+            {
+              title: "Mission & Partners",
+              items: [
+                {
+                  label: "Veteran Mission",
+                  href: "#trust",
+                },
+                {
+                  label: "Swords to Plowshares",
+                  href: "#trust",
+                },
+                {
+                  label: "Licensing & PPO",
+                  href: "#trust",
+                },
+                {
+                  label: "Careers for Veterans",
+                  href: "#contact",
+                },
+              ],
+            },
+          ]}
+          copyright="© 2024 DLJ Protection. All rights reserved."
+          links={[
+            {
+              label: "Privacy Policy",
               href: "#",
             },
             {
-              label: "Veteran Mission",
-              href: "#",
-            },
-          ],
-        },
-        {
-          title: "Services",
-          items: [
-            {
-              label: "Guard Services",
-              href: "#services",
-            },
-            {
-              label: "Patrol",
-              href: "#services",
-            },
-          ],
-        },
-        {
-          title: "Resources",
-          items: [
-            {
-              label: "Partnership: Swords to Plowshares",
+              label: "Terms of Service",
               href: "#",
             },
             {
-              label: "Contact",
-              href: "#contact",
+              label: "Licensing Disclosures",
+              href: "#",
             },
-          ],
-        },
-      ]}
-      copyright="© 2024 DLJ Protection. All rights reserved."
-      links={[
-        {
-          label: "Privacy Policy",
-          href: "#",
-        },
-        {
-          label: "Terms of Service",
-          href: "#",
-        },
-      ]}
-    />
+          ]}
+        />
       </SectionErrorBoundary>
     </StyleProvider>
   );
