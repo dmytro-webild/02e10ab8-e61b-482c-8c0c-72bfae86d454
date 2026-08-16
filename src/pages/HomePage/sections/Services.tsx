@@ -64,7 +64,7 @@ const servicesData: ServiceItem[] = [
     title: "Executive & VIP Security",
     description:
       "Discreet and comprehensive personal protection for corporate executives, high-profile individuals, and dignitaries operating in high-risk environments.",
-    imageSrc: "https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786913478806-bsau3mmv.jpg",
+    imageSrc: "https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786913478806-bsau3mmv.jpg?_wi=1",
     icon: UserCheck,
     highlights: [
       "Advance route planning & emergency exit strategy",
@@ -96,7 +96,7 @@ const servicesData: ServiceItem[] = [
     title: "Event & Conference Security",
     description:
       "End-to-end security coordination for large-scale public events, private galas, and corporate summits ensuring guest safety and smooth operations.",
-    imageSrc: "https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786913478806-bsau3mmv.jpg",
+    imageSrc: "https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786913478806-bsau3mmv.jpg?_wi=2",
     icon: CalendarCheck,
     highlights: [
       "Perimeter screening & magnetometer checkpoints",
