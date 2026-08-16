@@ -53,7 +53,7 @@ export default function NavbarFloatingLogo({
             className="flex items-center gap-2.5 group shrink-0 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-cta rounded-full"
           >
             <img
-              src="https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786907592716-628y5o8n.jpg"
+              src="https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786915737086-i4qhh2hg.png"
               alt="DLJ Protection Logo"
               className="size-8 sm:size-9 rounded-full object-cover shrink-0 transition-transform duration-300 group-hover:scale-105"
             />
