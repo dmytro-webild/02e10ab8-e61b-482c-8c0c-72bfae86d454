@@ -18,7 +18,7 @@ const members = [
     imageSrc: "https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786909729808-4ywopy8p.jpg"
   },
   {
-    name: "David Chen",
+    name: "D. Mattox",
     role: "Security Compliance Lead",
     imageSrc: "https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786909392908-mpau08jp.png"
   }
