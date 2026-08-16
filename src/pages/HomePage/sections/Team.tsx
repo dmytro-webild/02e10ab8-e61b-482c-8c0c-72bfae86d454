@@ -15,7 +15,7 @@ const members = [
   {
     name: "Elena Rodriguez",
     role: "Client Relations Manager",
-    imageSrc: "https://picsum.photos/seed/1890314758/1200/800"
+    imageSrc: "https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786908435351-rmw592aw.png"
   },
   {
     name: "David Chen",
