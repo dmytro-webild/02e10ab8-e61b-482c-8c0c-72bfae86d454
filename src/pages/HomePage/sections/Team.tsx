@@ -15,7 +15,7 @@ const members = [
   {
     name: "Jontrell Taylor",
     role: "Client Relations Manager",
-    imageSrc: "https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786908435351-rmw592aw.png"
+    imageSrc: "https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786909729808-4ywopy8p.jpg"
   },
   {
     name: "David Chen",
