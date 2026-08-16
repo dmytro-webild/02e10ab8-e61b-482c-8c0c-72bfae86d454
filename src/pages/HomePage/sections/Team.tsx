@@ -13,7 +13,7 @@ const members = [
     imageSrc: "https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786850139072-spnpazqf.jpg"
   },
   {
-    name: "Elena Rodriguez",
+    name: "Jontrell Taylor",
     role: "Client Relations Manager",
     imageSrc: "https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786908435351-rmw592aw.png"
   },
