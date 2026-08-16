@@ -112,7 +112,7 @@ const servicesData: ServiceItem[] = [
     title: "Risk & Threat Assessments",
     description:
       "In-depth vulnerability analysis, physical security audits, and emergency action plans customized to mitigate corporate and structural liabilities.",
-    imageSrc: "",
+    imageSrc: "https://picsum.photos/seed/1475071207/1200/800",
     icon: FileCheck2,
     highlights: [
       "Comprehensive site vulnerability diagnostics",
