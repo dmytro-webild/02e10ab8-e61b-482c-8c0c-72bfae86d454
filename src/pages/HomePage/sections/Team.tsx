@@ -8,7 +8,7 @@ import ScrollReveal from "@/components/ui/ScrollReveal";
 
 const members = [
   {
-    name: "Darnell L. Johnson",
+    name: "Donte Sanders",
     role: "Founder & CEO / DLJ Owner",
     imageSrc: "https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786850139072-spnpazqf.jpg"
   },
