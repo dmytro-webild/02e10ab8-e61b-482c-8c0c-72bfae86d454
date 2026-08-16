@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { Menu, X, Shield, ArrowRight } from "lucide-react";
+import { Menu, X, ArrowRight } from "lucide-react";
 import Button from "@/components/ui/Button";
 import { useButtonClick } from "@/hooks/useButtonClick";
 
@@ -39,10 +39,10 @@ export default function NavbarFloatingLogo({
   const handleHeroClick = useButtonClick("#hero");
 
   return (
-    <header className={`sticky top-0 z-50 w-full transition-all duration-300 pointer-events-none ${isScrolled ?"py-3" : "py-5"} ${className}`}>
+    <header className={`sticky top-0 z-50 w-full transition-all duration-300 pointer-events-none ${isScrolled ? "py-3" : "py-5"} ${className}`}>
       <div className="w-content-width mx-auto px-2 sm:px-4">
         <div
-          className={`pointer-events-auto flex items-center justify-between gap-4 px-4 sm:px-6 py-2.5 sm:py-3 rounded-full transition-all duration-300 card backdrop-blur-xl border border-accent/20 ${ isScrolled ?"shadow-lg shadow-black/5 bg-card/90 py-2 sm:py-2.5"
+          className={`pointer-events-auto flex items-center justify-between gap-4 px-4 sm:px-6 py-2.5 sm:py-3 rounded-full transition-all duration-300 card backdrop-blur-xl border border-accent/20 ${ isScrolled ? "shadow-lg shadow-black/5 bg-card/90 py-2 sm:py-2.5"
               : "bg-card/75 shadow-sm"
           }`}
         >
