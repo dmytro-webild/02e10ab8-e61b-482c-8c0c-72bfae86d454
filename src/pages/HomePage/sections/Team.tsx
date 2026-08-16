@@ -20,7 +20,7 @@ const members = [
   {
     name: "David Chen",
     role: "Security Compliance Lead",
-    imageSrc: "https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786849019637-53srv54v.webp"
+    imageSrc: "https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786909392908-mpau08jp.png"
   }
 ];
 
