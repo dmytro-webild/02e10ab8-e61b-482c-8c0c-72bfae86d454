@@ -64,7 +64,7 @@ const servicesData: ServiceItem[] = [
     title: "Executive & VIP Security",
     description:
       "Discreet and comprehensive personal protection for corporate executives, high-profile individuals, and dignitaries operating in high-risk environments.",
-    imageSrc: "https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786913478805-woxln65x.jpg",
+    imageSrc: "https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786913478806-bsau3mmv.jpg",
     icon: UserCheck,
     highlights: [
       "Advance route planning & emergency exit strategy",
@@ -80,7 +80,7 @@ const servicesData: ServiceItem[] = [
     title: "Access Control & Surveillance",
     description:
       "Advanced electronic security systems combined with live monitoring to prevent unauthorized entry and maintain clear audit trails for your premises.",
-    imageSrc: "https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786913478805-woxln65x.jpg",
+    imageSrc: "https://picsum.photos/seed/1559964960/1200/800",
     icon: Video,
     highlights: [
       "Biometric & smart credential access management",
