@@ -64,7 +64,7 @@ const servicesData: ServiceItem[] = [
     title: "Executive & VIP Security",
     description:
       "Discreet and comprehensive personal protection for corporate executives, high-profile individuals, and dignitaries operating in high-risk environments.",
-    imageSrc: "https://picsum.photos/seed/328283132/1200/800",
+    imageSrc: "https://picsum.photos/seed/1001520545/1200/800",
     icon: UserCheck,
     highlights: [
       "Advance route planning & emergency exit strategy",
