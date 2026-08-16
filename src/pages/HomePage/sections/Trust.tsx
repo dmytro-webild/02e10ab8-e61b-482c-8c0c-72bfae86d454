@@ -26,8 +26,12 @@ const TrustInline = () => {
           <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/65 to-black/30" />
         </div>
 
-        <div className="absolute flex items-center justify-center top-6 left-6 md:top-8 md:left-8 size-14 md:size-16 primary-button rounded z-10">
-          <Quote className="h-5/10 text-primary-cta-text" strokeWidth={1.5} />
+        <div className="absolute flex items-center justify-center top-6 left-6 md:top-8 md:left-8 size-14 md:size-16 primary-button rounded z-10 overflow-hidden p-2">
+          <img
+            src="https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786907592716-628y5o8n.jpg"
+            alt="DLJ Protection Shield Logo"
+            className="w-full h-full object-contain"
+          />
         </div>
 
         <div className="relative z-10 flex flex-col justify-end gap-5 max-w-3xl mt-16">
