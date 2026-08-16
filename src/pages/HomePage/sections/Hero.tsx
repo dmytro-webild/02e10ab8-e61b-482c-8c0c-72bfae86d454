@@ -9,7 +9,7 @@ export default function HeroSection(): React.JSX.Element {
       <HeroBrandCarousel
         primaryButton={{"href":"#contact","text":"Request Free Consultation"}}
         description="Professional Protection & High-Grade Security Solutions tailored to safeguard your commercial, corporate, and private assets with 24/7 veteran-led response."
-        items={[{"imageSrc":"http://img.b2bpic.net/free-photo/attractive-male-cop-with-ammunition-holding-gun-with-both-hands-front-view-bearded-man-black_7502-10633.jpg"},{"imageSrc":"http://img.b2bpic.net/free-photo/young-man-holding-mini-notebook-black-shirt-cap_176474-11287.jpg"},{"imageSrc":"https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786850139072-spnpazqf.jpg"}]}
+        items={[{"imageSrc":"https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786850939473-b9jnl07w.webp"},{"imageSrc":"https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786907592716-628y5o8n.jpg"},{"imageSrc":"https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786850139072-spnpazqf.jpg"}]}
         textAnimation="slide-up"
         secondaryButton={{"href":"#services","text":"Explore Guard Services"}}
         brand="DLJ PROTECTION"
