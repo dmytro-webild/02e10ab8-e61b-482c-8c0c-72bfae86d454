@@ -48,7 +48,7 @@ const servicesData: ServiceItem[] = [
     title: "Mobile Patrol & Incident Response",
     description:
       "Randomized vehicle patrols equipped with real-time GPS tracking and instant reporting to ensure maximum coverage across expansive properties.",
-    imageSrc: "https://picsum.photos/seed/1033946187/1200/800",
+    imageSrc: "https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786912422730-p3g13oq6.jpg",
     icon: Radio,
     highlights: [
       "Marked patrol vehicles with active deterrence lighting",
