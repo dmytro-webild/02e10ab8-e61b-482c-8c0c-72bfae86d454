@@ -52,9 +52,11 @@ export default function NavbarFloatingLogo({
             onClick={handleHeroClick}
             className="flex items-center gap-2.5 group shrink-0 focus:outline-none focus-visible:ring-2 focus-visible:ring-primary-cta rounded-full"
           >
-            <div className="flex items-center justify-center size-8 sm:size-9 primary-button rounded-full transition-transform duration-300 group-hover:scale-105 shrink-0">
-              <Shield className="size-4 text-primary-cta-text" strokeWidth={2.2} />
-            </div>
+            <img
+              src="https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786907592716-628y5o8n.jpg"
+              alt="DLJ Protection Logo"
+              className="size-8 sm:size-9 rounded-full object-cover shrink-0 transition-transform duration-300 group-hover:scale-105"
+            />
             <span className="font-bold text-sm sm:text-base tracking-tight text-foreground group-hover:text-primary-cta transition-colors">
               {logo}
             </span>
