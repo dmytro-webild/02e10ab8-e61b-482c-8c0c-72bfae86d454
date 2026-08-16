@@ -15,12 +15,12 @@ const members = [
   {
     name: "Elena Rodriguez",
     role: "Client Relations Manager",
-    imageSrc: "http://img.b2bpic.net/free-photo/attractive-male-cop-with-ammunition-holding-gun-with-both-hands-front-view-bearded-man-black_7502-10633.jpg"
+    imageSrc: "https://picsum.photos/seed/1890314758/1200/800"
   },
   {
     name: "David Chen",
     role: "Security Compliance Lead",
-    imageSrc: "http://img.b2bpic.net/free-photo/young-man-holding-mini-notebook-black-shirt-cap_176474-11287.jpg"
+    imageSrc: "https://picsum.photos/seed/1936331609/1200/800"
   }
 ];
 
