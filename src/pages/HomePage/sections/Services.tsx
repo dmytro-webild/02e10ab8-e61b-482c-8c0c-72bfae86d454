@@ -32,7 +32,7 @@ const servicesData: ServiceItem[] = [
     title: "Armed & Unarmed Guard Services",
     description:
       "Highly trained security professionals providing continuous physical deterrence, access control, and rapid response for commercial and industrial facilities.",
-    imageSrc: "",
+    imageSrc: "https://picsum.photos/seed/721739576/1200/800",
     icon: ShieldCheck,
     highlights: [
       "Veteran & law-enforcement trained officers",
@@ -48,7 +48,7 @@ const servicesData: ServiceItem[] = [
     title: "Mobile Patrol & Incident Response",
     description:
       "Randomized vehicle patrols equipped with real-time GPS tracking and instant reporting to ensure maximum coverage across expansive properties.",
-    imageSrc: "",
+    imageSrc: "https://picsum.photos/seed/1033946187/1200/800",
     icon: Radio,
     highlights: [
       "Marked patrol vehicles with active deterrence lighting",
