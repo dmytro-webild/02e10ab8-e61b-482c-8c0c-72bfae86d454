@@ -96,7 +96,7 @@ const servicesData: ServiceItem[] = [
     title: "Event & Conference Security",
     description:
       "End-to-end security coordination for large-scale public events, private galas, and corporate summits ensuring guest safety and smooth operations.",
-    imageSrc: "https://picsum.photos/seed/870369889/1200/800",
+    imageSrc: "https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786913478806-bsau3mmv.jpg",
     icon: CalendarCheck,
     highlights: [
       "Perimeter screening & magnetometer checkpoints",
@@ -112,7 +112,7 @@ const servicesData: ServiceItem[] = [
     title: "Risk & Threat Assessments",
     description:
       "In-depth vulnerability analysis, physical security audits, and emergency action plans customized to mitigate corporate and structural liabilities.",
-    imageSrc: "https://picsum.photos/seed/1475071207/1200/800",
+    imageSrc: "https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786913478806-skn1xy6m.jpg",
     icon: FileCheck2,
     highlights: [
       "Comprehensive site vulnerability diagnostics",
