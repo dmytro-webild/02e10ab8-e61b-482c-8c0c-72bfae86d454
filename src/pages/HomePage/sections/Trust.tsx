@@ -15,7 +15,7 @@ export default function TrustSection(): React.JSX.Element {
           author="The DLJ Protection Leadership"
           role="Veteran-Led Security Excellence"
           textAnimation="slide-up"
-          imageSrc="http://img.b2bpic.net/free-photo/computer-security-with-3d-shields-with-padlocks_107791-16214.jpg"
+          imageSrc="https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786907592716-628y5o8n.jpg"
         />
         </SectionErrorBoundary>
       </div>
