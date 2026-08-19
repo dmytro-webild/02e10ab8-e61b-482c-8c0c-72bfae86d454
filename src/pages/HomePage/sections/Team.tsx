@@ -20,7 +20,7 @@ const members = [
   {
     name: "D. Mattox",
     role: "Client Relations Manager",
-    imageSrc: "https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1786909392908-mpau08jp.png"
+    imageSrc: "https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1787166025280-buvmyomc.png"
   }
 ];
 
