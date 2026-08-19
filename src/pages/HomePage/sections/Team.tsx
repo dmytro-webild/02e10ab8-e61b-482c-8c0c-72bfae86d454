@@ -14,7 +14,7 @@ const members = [
   },
   {
     name: "Jontrell Taylor",
-    role: "Director of Security",
+    role: "Co-Founder & CPO / DLJ  Co-Owner",
     imageSrc: "https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1787159565437-caenv4d4.jpg"
   },
   {
