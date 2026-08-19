@@ -15,7 +15,7 @@ const members = [
   {
     name: "Jontrell Taylor",
     role: "Co-Founder & CPO / DLJ  Co-Owner",
-    imageSrc: "https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1787159565437-caenv4d4.jpg"
+    imageSrc: "https://storage.googleapis.com/webild/users/user_3HymNublRvuFtoKZ5cOUF2ujXj0/uploaded-1787166025282-ttmim0v0.png"
   },
   {
     name: "D. Mattox",
